@@ -1,0 +1,6 @@
+{
+  "name": "kateb-ai",
+  "description": "Arabic Medical Assistant - Modern healthcare frontend dashboard and records system.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
